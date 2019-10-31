@@ -1,6 +1,6 @@
 {
   "name": "@gem-mine/css-split-webpack-plugin",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
   "license": "CC0-1.0",
   "repository": "metalabdesign/css-split-webpack-plugin",
